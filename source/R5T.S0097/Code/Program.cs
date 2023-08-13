@@ -7,7 +7,7 @@ namespace R5T.S0097
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Demonstrations.Instance.Get_RepositoryOwnerName();
         }
     }
 }
